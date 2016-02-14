@@ -1,0 +1,28 @@
+name: MUSTAFA
+favicon: null
+layout_spectrum: 0.5924169409554452
+typography_spectrum: 0.11624588281847537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24529861682094634
+  lightness: 0.1258421652019024
+  saturation: 0.5287121077999473
+  rhythmicContrast: 0.0027604911010712385
+purpose: []
