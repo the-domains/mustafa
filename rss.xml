@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PORTFOLIO]]></title>
         <description><![CDATA[PORTFOLIO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mustafa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 03:02:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 04:04:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mustafa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PANORAMA]]></title>
+            <description><![CDATA[<h1>PANORAMA</h1>]]></description>
+            <link>https://thegrid.ai/mustafa/3e008443-7d9e-4630-a4e5-a6cbf4e4c07e/index.html</link>
+            <guid isPermaLink="false">3e008443-7d9e-4630-a4e5-a6cbf4e4c07e</guid>
+            <pubDate>Sun, 14 Feb 2016 04:03:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MONTREAL]]></title>
             <description><![CDATA[<h1>MONTREAL</h1>]]></description>
-            <link>undefinede404d5c0-cec1-4bc6-bca1-56a89497b22a/index.html</link>
+            <link>https://thegrid.ai/mustafa/e404d5c0-cec1-4bc6-bca1-56a89497b22a/index.html</link>
             <guid isPermaLink="false">e404d5c0-cec1-4bc6-bca1-56a89497b22a</guid>
             <pubDate>Sun, 14 Feb 2016 03:02:19 GMT</pubDate>
         </item>
