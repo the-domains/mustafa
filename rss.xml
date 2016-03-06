@@ -4,7 +4,7 @@
         <description><![CDATA[PORTFOLIO]]></description>
         <link>https://thegrid.ai/mustafa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 22:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 23:07:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mustafa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TORONTO]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[MONTREAL]]></title>
-            <description><![CDATA[<h1>MONTREAL</h1>]]></description>
+            <description><![CDATA[<article><h1>MONTREAL</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f49d35becaf77c34702d7a3a7d4f95a8178a8c30.jpg"></article>]]></description>
             <link>https://thegrid.ai/mustafa/e404d5c0-cec1-4bc6-bca1-56a89497b22a/index.html</link>
             <guid isPermaLink="false">e404d5c0-cec1-4bc6-bca1-56a89497b22a</guid>
-            <pubDate>Sun, 14 Feb 2016 03:02:19 GMT</pubDate>
+            <pubDate>Sun, 06 Mar 2016 23:06:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
