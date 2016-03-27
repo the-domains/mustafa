@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0
-  brandStrength: 0.9375
-  lightness: 0
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: MUSTAFA
 favicon: null
+name: MUSTAFA
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.6863799
-layout_spectrum: 1
+typography_spectrum: 0.9103943
+layout_spectrum: 0.3602151
